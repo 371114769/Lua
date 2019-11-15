@@ -1,0 +1,6 @@
+## Interface: 11302
+## Title: LockLockShards
+## Notes: Make sure to change soulBagID before using.
+## OptionalDeps: Ace3
+## X-Embeds: Ace3
+LockLockShards.lua
